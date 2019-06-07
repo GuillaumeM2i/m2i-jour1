@@ -1,0 +1,6 @@
+# Ignore le fichier
+config.yaml
+# Ignore le repertoire
+logs/*
+# Sauf le fichier gitignore
+!logs/.gitkeep
